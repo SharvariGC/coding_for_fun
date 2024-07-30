@@ -1,1 +1,4 @@
 random_word
+notebook
+numpy
+matplotlib
